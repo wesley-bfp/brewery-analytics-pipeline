@@ -1,0 +1,13 @@
+# Ignorar arquivos de dados gerados
+data/
+*.duckdb
+*.csv
+*.parquet
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar configurações de IDE
+.vscode/
+.idea/
